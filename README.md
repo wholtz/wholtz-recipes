@@ -1,2 +1,2 @@
 # wholtz-recipes
-Will Holtz's recipes for Autopkg based installation of software on macOS
+This repo has moved to https://github.com/autopkg/wholtz-recipes
